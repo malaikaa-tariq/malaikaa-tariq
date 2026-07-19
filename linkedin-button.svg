@@ -1,0 +1,7 @@
+<svg width="132" height="40" viewBox="0 0 156 46" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LinkedIn button">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="156" y2="46"><stop stop-color="#0A66C2"/><stop offset="1" stop-color="#2563EB"/></linearGradient><filter id="s" x="-20%" y="-30%" width="140%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#020617" flood-opacity=".45"/></filter></defs>
+  <rect x="2" y="2" width="152" height="40" rx="9" fill="url(#g)" stroke="#93C5FD" stroke-opacity=".65" filter="url(#s)"/>
+  <rect x="14" y="11" width="24" height="24" rx="4" fill="#FFFFFF"/>
+  <text x="26" y="30" font-family="Arial,sans-serif" font-size="18" font-weight="800" text-anchor="middle" fill="#0A66C2">in</text>
+  <text x="94" y="29" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" text-anchor="middle" fill="#FFFFFF" letter-spacing="1.1">LINKEDIN</text>
+</svg>
