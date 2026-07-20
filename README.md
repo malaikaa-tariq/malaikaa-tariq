@@ -114,7 +114,7 @@ Welcome to my GitHub profile! I'm <b>Malaika Tariq</b>, a Full-Stack Developer a
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malaikaa-tariq&theme=github_dark" alt="GitHub statistics" />
     </td>
     <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaikaa-tariq&layout=donut&langs_count=12&hide_border=false&count_private=true&bg_color=0B132B&title_color=60A5FA&text_color=E6F2FF&border_color=123C69" alt="Automatically updated language percentages" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malaikaa-tariq&theme=github_dark" alt="Automatically updated language percentages" />
     </td>
   </tr>
 </table>
